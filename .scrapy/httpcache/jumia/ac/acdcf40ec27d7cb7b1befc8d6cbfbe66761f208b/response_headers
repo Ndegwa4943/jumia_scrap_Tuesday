@@ -1,0 +1,22 @@
+Date: Wed, 30 Jul 2025 08:22:30 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Tue, 31 Oct 2023 10:56:09 GMT
+Etag: W/"b8d47f8ce7cf80fc56ba52c8dbc0da35"
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: null
+Expires: Thu, 31 Jul 2025 07:15:11 GMT
+Cache-Control: max-age=86400
+Cache-Control: no-transform
+X-Lb: nginx-aws-c01
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Oa: 4
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=CpXg8UH4q22X7t6LZBCptldA34tqKLfu_R6itl8hbBE-1753863750-1.0.1.1-8HG.B0RMGmq_vYPTiXnl0dc_8N8nc9cwP4SzFR_6aprb5X1QGMLeAAX5m3zR0T5M4NtuMHZdtiIo.sUAgVBzbAweQT_7b1c6jn6gxNq22hU; path=/; expires=Wed, 30-Jul-25 08:52:30 GMT; domain=.jumia.co.ke; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 967372d7dc9eb199-NBO
+Alt-Svc: h3=":443"; ma=86400
